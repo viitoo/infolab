@@ -1,0 +1,2 @@
+cms ligth para administracion de laboratorios de computacion en universidades y liceos , 
+necesitas restaurar la bd a un servidor mysql y cambiar el archivo de configuracion de la base de datos mysql a los datos de tu servidor de base de datos.
